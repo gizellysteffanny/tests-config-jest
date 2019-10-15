@@ -1,0 +1,29 @@
+{
+  "name": "teste-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Gizelly",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chai": "^4.2.3",
+    "@types/jasmine": "^3.4.4",
+    "@types/jest": "^24.0.19",
+    "@types/mocha": "^5.2.7",
+    "chai": "^4.2.0",
+    "jasmine": "^3.5.0",
+    "jest": "^24.9.0",
+    "mocha": "^6.2.1",
+    "nyc": "^14.1.1",
+    "ts-jest": "^24.1.0",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.4"
+  }
+}
